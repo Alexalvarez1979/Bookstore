@@ -1,0 +1,18 @@
+{
+  "homepage": "https://Alexalvarez1979.github.io/<Bookstore>",
+  "name": "",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    // your dependencies
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  
+}
